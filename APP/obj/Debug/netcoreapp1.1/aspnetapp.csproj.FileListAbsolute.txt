@@ -1,0 +1,16 @@
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\bin\Debug\netcoreapp1.1\aspnetapp.deps.json
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\bin\Debug\netcoreapp1.1\aspnetapp.runtimeconfig.json
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\bin\Debug\netcoreapp1.1\aspnetapp.runtimeconfig.dev.json
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\bin\Debug\netcoreapp1.1\aspnetapp.dll
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\bin\Debug\netcoreapp1.1\aspnetapp.pdb
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\obj\Debug\netcoreapp1.1\aspnetapp.AssemblyInfo.cs
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\obj\Debug\netcoreapp1.1\aspnetapp.dll
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\aspnetapp\obj\Debug\netcoreapp1.1\aspnetapp.pdb
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\bin\Debug\netcoreapp1.1\aspnetapp.deps.json
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\bin\Debug\netcoreapp1.1\aspnetapp.runtimeconfig.json
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\bin\Debug\netcoreapp1.1\aspnetapp.runtimeconfig.dev.json
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\bin\Debug\netcoreapp1.1\aspnetapp.dll
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\bin\Debug\netcoreapp1.1\aspnetapp.pdb
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\obj\Debug\netcoreapp1.1\aspnetapp.AssemblyInfo.cs
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\obj\Debug\netcoreapp1.1\aspnetapp.dll
+C:\Users\Felipe Grisales\Documents\GitHub\Proyects\dotnet-docker-samples\WcfService\obj\Debug\netcoreapp1.1\aspnetapp.pdb
